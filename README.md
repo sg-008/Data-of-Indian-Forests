@@ -9,3 +9,5 @@ Please add all the references here:
 6) https://rainforests.mongabay.com/deforestation/archive/India.htm (Biomass, CO2 Emissions and tree cover loss)
 7) https://data.oecd.org/air/air-and-ghg-emissions.htm (Total Co2 emission)
 8) http://apps.iasri.res.in/agridata/19data/chapter1/db2019tb1_1.pdf (Land Use Classification)
+9) http://www.frienvis.nic.in/Database/Forest-Cover-in-India-2001-05_2248.aspx (Statewise forest cover 2001-2005)
+10)http://www.frienvis.nic.in/Database/Type-of-Forest-Cover-in-India-2007-13_2249.aspx (Statewise forest cover 2007-2013)
