@@ -11,3 +11,5 @@ Please add all the references here:
 8) http://apps.iasri.res.in/agridata/19data/chapter1/db2019tb1_1.pdf (Land Use Classification)
 9) http://www.frienvis.nic.in/Database/Forest-Cover-in-India-2001-05_2248.aspx (Statewise forest cover 2001-2005)
 10) http://www.frienvis.nic.in/Database/Type-of-Forest-Cover-in-India-2007-13_2249.aspx (Statewise forest cover 2007-2013)
+11) http://cdn.cseindia.org/attachments/0.39269300_1505297987_wood-is-good.pdf (Timber Production , Pages 16,17)
+
