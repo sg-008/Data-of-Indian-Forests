@@ -12,4 +12,5 @@ Please add all the references here:
 9) http://www.frienvis.nic.in/Database/Forest-Cover-in-India-2001-05_2248.aspx (Statewise forest cover 2001-2005)
 10) http://www.frienvis.nic.in/Database/Type-of-Forest-Cover-in-India-2007-13_2249.aspx (Statewise forest cover 2007-2013)
 11) http://cdn.cseindia.org/attachments/0.39269300_1505297987_wood-is-good.pdf (Timber Production , Pages 16,17)
+12) Total no. of mines: https://view.officeapps.live.com/op/view.aspx?src=http%3A%2F%2Fmospi.nic.in%2Fsites%2Fdefault%2Ffiles%2Fstatistical_year_book_india_2015%2FTable%252015.1_4.xls&wdOrigin=BROWSELINK
 
